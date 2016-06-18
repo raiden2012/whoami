@@ -1,0 +1,23 @@
+{
+  "name": "whoami",
+  "version": "1.0.0",
+  "description": "A barebones Node.js app using [Express 4](http://expressjs.com/).",
+  "main": "index.js",
+  "dependencies": {
+    "express": "4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raiden2012/whoami.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raiden2012/whoami/issues"
+  },
+  "homepage": "https://github.com/raiden2012/whoami#readme"
+}
