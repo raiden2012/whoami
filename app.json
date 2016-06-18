@@ -1,0 +1,8 @@
+{
+  "name": "whoami",
+  "description": "a whoami micro service",
+  "repository": "https://github.com/raiden2012/whoami",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "whoami"],
+  "image": "heroku/nodejs"
+}
